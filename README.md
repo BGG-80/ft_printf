@@ -1,5 +1,10 @@
 # ft_printf
-The objective of this project is quite simple. You will have to reprogram printf(). You will mainly learn how to use a variable number of arguments.
+The objective of this project is quite simple. You will have to reprogram printf(). 
+You will mainly learn how to use a variable number of arguments.
+
+With this project you will acquire the following skills : 
+    - Rigor
+    - Algorithms & AI  
 
 If you want to write a good ft_printf my advice is the following: 
 **Block 1: Review C Fundamentals** Affecting ft_printf, some of these functions are part of your libft, maybe , depends on how you write the code you will need to adapt them. 
@@ -17,3 +22,5 @@ If you want to write a good ft_printf my advice is the following:
 
  Compare your function with the original printf!. 
  Enjoy!
+
+I
